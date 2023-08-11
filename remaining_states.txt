@@ -1,0 +1,18 @@
+,0
+0,Assam
+1,Chhattisgarh
+2,Haryana
+3,Himachal Pradesh
+4,Jharkhand
+5,Karnataka
+6,Kerala
+7,Madhya Pradesh
+8,Manipur
+9,Meghalaya
+10,Mizoram
+11,Odisha
+12,Punjab
+13,Sikkim
+14,Telangana
+15,Tripura
+16,West Bengal
